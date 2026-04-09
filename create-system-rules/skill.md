@@ -1,5 +1,5 @@
 ---
-name: create-agentsmd
+name: create-system-rules
 version: 2.0.0
 description: >
   Create or update an AGENTS.md file optimized for AI coding agents. First inspect the
